@@ -1,0 +1,14 @@
+# Rust build output
+/target/
+
+# Python
+/venv/
+__pycache__/
+*.pyc
+
+# App temp files
+/downloads/
+
+# IDE
+.vscode/
+*.swp
