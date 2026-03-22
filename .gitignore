@@ -1,13 +1,8 @@
-# Rust build output
+# Build output
 /target/
 
-# Python
-/venv/
-__pycache__/
-*.pyc
-
-# App temp files
-/downloads/
+# Debug logs
+crash.log
 
 # IDE
 .vscode/
