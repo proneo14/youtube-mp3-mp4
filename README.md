@@ -22,7 +22,7 @@ A lightweight Windows desktop app to download YouTube videos as MP3 or MP4 files
 ## Quick Start
 
 ```powershell
-git clone https://github.com/<your-username>/youtube-mp3-mp4.git
+git clone https://github.com/proneo14/youtube-mp3-mp4.git
 cd youtube-mp3-mp4
 .\install.ps1
 ```
